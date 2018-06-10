@@ -1,5 +1,5 @@
 FROM java:8
-MAINTAINER Jon Packard <jon@packard.tech>
+MAINTAINER Jacob Wiltse <kelwing@kelnet.org>
 
 RUN mkdir -p /opt/ftb/world
 WORKDIR /opt/ftb
